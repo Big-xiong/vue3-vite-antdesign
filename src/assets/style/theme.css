@@ -1,0 +1,13 @@
+:root{
+  --primary-color: #30A7AD;
+  --primary-alert-color: #FF7878;
+  --light-color:#E7F6F8;
+
+  --font-color-fff: #fff;
+  --primary-font-color: #3f3f3f;
+
+  --primary-gradient-bg-color: linear-gradient(138deg, #6DC5CC 0%, #6DCFB1 100%);
+  --light-gradient-bg-color: linear-gradient(134deg, #DEFBFF 0%, #D4E1FF 100%);
+
+  --border-radius: 8px;
+}
